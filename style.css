@@ -127,7 +127,7 @@ nav#navegacao-principal ul li ul li {
 .paiA>h2 {
     width: 100%;
     background-color: black;
-    color: red;
+    color: rgb(0, 89, 255);
     text-align: center;
     margin: 5px;
     padding: 5px;
@@ -294,12 +294,12 @@ footer p {
 }
 .midiaSocial a {
     text-decoration: none;
-    color: black;
-    background-color: aquamarine;
+    color: rgb(0, 0, 0);
+    background-color: rgb(11, 36, 134);
 }
 
 .midiaSocial a:hover {
-    background-color: red;
+    background-color: rgb(0, 234, 255);
 }
 
 /* quando o mause passar por cima fica vermelho*/
